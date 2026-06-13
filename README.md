@@ -1,4 +1,5 @@
 # Puraris AI GameProject
+Establish：2026.06.12
 
 AIと人が協力しながら制作するゲームプロジェクト。
 

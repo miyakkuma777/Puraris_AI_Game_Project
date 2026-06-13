@@ -1,4 +1,4 @@
-# Puraris AI GameProject
+# Puraris AI GameProject TEST
 
 AIと人が協力しながら制作するゲームプロジェクト。
 
